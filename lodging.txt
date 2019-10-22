@@ -1,0 +1,3 @@
+Woken Phoenix;Lodging;95.85;5/14/2015;
+mac Roni;Lodging;95.99;06/09/2019;
+mad max;Lodging;69.54;05/10/2011;

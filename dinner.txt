@@ -1,0 +1,4 @@
+arnold schwarzenegger;Dinner;150.15;06/02/2015;
+the rock;Dinner;58.45;02/14/2015;
+eddie huang;Dinner;62.59;06/05/2018;
+adrian seth;Dinner;8.55;07/15/2019;

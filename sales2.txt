@@ -1,0 +1,10 @@
+billy joel;Lodging;89.99;10/10/2019;
+arnold schwarzenegger;Dinner;150.15;06/02/2015;
+the rock;Dinner;58.45;02/14/2015;
+Woken Phoenix;Lodging;95.85;5/14/2015;
+henry styling;Conference;250.12;09/09/2019;
+billie eilish;Conference;249.99;12/25/2017;
+mac Roni;Lodging;95.99;06/09/2019;
+eddie huang;Dinner;62.59;06/05/2018;
+adrian seth;Dinner;8.55;07/15/2019;
+mad max;Lodging;69.54;05/10/2011;
